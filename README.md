@@ -1,4 +1,4 @@
-# batik
+# Image Classification (klasifikasi jenis batik) dengan flutter
 
 A new Flutter application.
 
